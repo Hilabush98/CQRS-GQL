@@ -4,6 +4,7 @@ type Mutation {
 }
 
 type Book {
+  id:ID
   title: String
   author: String
 }

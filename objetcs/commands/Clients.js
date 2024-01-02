@@ -7,7 +7,7 @@ input inputClient{
   age: String
 }
 type Client {
-  employeeId:ID
+  id:ID
   name: String
   age: String
 }

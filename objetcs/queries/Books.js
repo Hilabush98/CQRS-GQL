@@ -4,6 +4,7 @@ type Query {
 }
 
 type Book {
+  id:ID
   title: String
   author: String
 }

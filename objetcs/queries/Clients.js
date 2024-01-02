@@ -4,6 +4,7 @@ type Query {
 }
 
 type Client {
+  id:ID
   name: String
   age: String
 }
